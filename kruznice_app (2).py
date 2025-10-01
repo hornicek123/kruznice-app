@@ -7,8 +7,8 @@ import io
 
 # Sidebar - Author and technologies
 st.sidebar.title("O autorovi")
-st.sidebar.markdown("**Jméno:** Lukáš Novák")
-st.sidebar.markdown("**Kontakt:** lukas.novak@example.com")
+st.sidebar.markdown("**Jméno:** Lukáš Horníček")
+st.sidebar.markdown("**Kontakt:** lukashornicek@seznam.cz")
 st.sidebar.markdown("**Použité technologie:** Streamlit, Matplotlib, NumPy, FPDF")
 
 # Hlavní nadpis
